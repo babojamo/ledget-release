@@ -48,7 +48,9 @@ To completely use the Ledget Accounting Software client computer must have these
 Client and server program installation and initial setup
 Program installation setup can be on this repository, the **Ledget Server Setup.exe** and **Ledget Setup.exe**.
 
-Download the files and install it to the client computer and server computer and just make sure the computers meet the requirements.
+[Download the latest release](https://github.com/babojamo/ledget-release/releases/latest)
+
+[Download](https://github.com/babojamo/ledget-release/archive/v1.2.3.0.zip) the files and install it to the client computer and server computer and just make sure the computers meet the requirements.
 
 ## Server Setup
 After installation, the system must be setup first on client and server side.
